@@ -1,6 +1,7 @@
 # Smarty
 
-TODO: Write a gem description
+The goal here is to reproduce most features of [Smarty](http://www.smarty.net/). It's in a very alpha stage.
+If you want to help, read "Contributing" section below, or open an [issue](https://github.com/rafaelss/smarty/issues).
 
 ## Installation
 
@@ -18,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+**Soon**
 
 ## Contributing
 
