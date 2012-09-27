@@ -7,10 +7,10 @@ Gem::Specification.new do |gem|
   gem.name          = "smarty"
   gem.version       = Smarty::VERSION
   gem.authors       = ["Rafael Souza"]
-  gem.email         = ["me@rafaelss.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.email         = ["rafaelss@outlook.com"]
+  gem.description   = %q{Ruby Port of Smarty Template Engine - http://www.smarty.net/}
+  gem.summary       = %q{Ruby Port of Smarty Template Engine - http://www.smarty.net/}
+  gem.homepage      = "http://github.com/rafaelss/smarty"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
